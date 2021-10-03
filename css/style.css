@@ -160,7 +160,6 @@ body{
 }
 
 body{
-    height: 5000px;
     font-family: "raleway-regular";
 }
 .flex{
@@ -229,7 +228,7 @@ nav .nav-bar  a{
     transition: 0.3s ease all;
 }
 nav .nav-bar{
-    padding: 1rem 1.5rem;
+    padding: 1rem -0.5rem;
     height: 67px;
 }
 nav .nav-bar a.active{
